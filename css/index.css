@@ -11,17 +11,15 @@ body{
 
 .col-lg-5{
 	background-color: rgba(255,73,73,0.62);
-	/*width:800px;
-	height: 100px;*/
 }
 
 
-/*.col-lg-5{
+.col-lg-5{
 	position:absolute;
     left:0;
     animation-name:oxxo;
     animation-duration:2s;
-    animation-iteration-count:infinite;
+    /*animation-iteration-count:infinite;*/
 }
 
 
@@ -33,7 +31,7 @@ body{
         left:100px;
     }
 }
-*/
+
 .text{
 	height: 100vh;
 }
