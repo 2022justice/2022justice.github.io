@@ -14,12 +14,12 @@ body{
 }
 
 
-.col-lg-5{
+/*.col-lg-5{
 	position:absolute;
     left:0;
     animation-name:oxxo;
     animation-duration:2s;
-    /*animation-iteration-count:infinite;*/
+    animation-iteration-count:infinite;
 }
 
 
@@ -30,7 +30,7 @@ body{
     to{
         left:100px;
     }
-}
+}*/
 
 .text{
 	height: 100vh;
