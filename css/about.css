@@ -11,6 +11,21 @@ body{
 }
 
 .title{
-	color:#fa8072;
+	color:#736C49;
 	font-weight: bold;
+}
+
+.title2{
+	color:#262314;
+	font-weight: bold;
+	margin-top:40px;
+}
+
+.details{
+	margin-top:40px;
+}
+
+#profile{
+	width:375px;
+	height:480px;
 }
