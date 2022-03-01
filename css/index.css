@@ -1,10 +1,14 @@
 body{
     font-family: Microsoft JhengHei;
     background-image:url(../images/banner.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
-    background-size: cover;
+	background-position: center center;
+	background-size: cover;
+	height:300px;
+	margin-top:3.5rem;
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    /*background-position: center center;
+    background-size: cover; */
 }
 
 .col-lg-5{
